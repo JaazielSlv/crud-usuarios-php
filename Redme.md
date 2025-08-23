@@ -33,7 +33,7 @@ Siga atentamente os passos abaixo para rodar o projeto localmente.
 
 
 ```bash
-git clone []()
+git clone [https://github.com/JaazielSlv/crud-usuarios-php.git](https://github.com/JaazielSlv/crud-usuarios-php.git)
 ```
 
 
